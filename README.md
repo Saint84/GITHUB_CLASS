@@ -15,4 +15,10 @@
     - > git commit -m "My FIrst Commit"
     - > git push
 
+### 3. Creating a .gitignore File
+A **gitignore** file specifies intentionally untracked files that Git should ignore. Files already tracked by Git are not affected
+
+### x. Useful Links 💥
+- [GITIGNORE](https://git-scm.com/docs/gitignore#:~:text=A%20gitignore%20file%20specifies%20intentionally,gitignore%20file%20specifies%20a%20pattern.)
+
 
