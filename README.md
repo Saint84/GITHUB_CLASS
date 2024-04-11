@@ -18,7 +18,15 @@
 ### 3. Creating a .gitignore File
 A **gitignore** file specifies intentionally untracked files that Git should ignore. Files already tracked by Git are not affected
 
+### 4. Creating a new Branch.
+Now we are going to create a new branch and create a simple python file on the APP directory. To creating a new branch just typing
+ - > git branch (New Branch Name)
+
+You can list all branch in this repository using:
+ - > git branch
+
 ### x. Useful Links 💥
-- [GITIGNORE](https://git-scm.com/docs/gitignore#:~:text=A%20gitignore%20file%20specifies%20intentionally,gitignore%20file%20specifies%20a%20pattern.)
+- [Explanation: .gitignore](https://git-scm.com/docs/gitignore#:~:text=A%20gitignore%20file%20specifies%20intentionally,gitignore%20file%20specifies%20a%20pattern.)
+- [Automation: gitignore Creation](https://www.toptal.com/developers/gitignore)
 
 
