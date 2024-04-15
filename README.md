@@ -35,6 +35,11 @@ In order to remove any unnecessary branches, you can make use of the `-d` flag.
  - > git branch -d (branch name)
 
 
+### 7. Merge.
+In order to get the last commit in master branch, you can use `git merge` command.
+
+ - > git merge (branch name)
+
 
 ### x. Useful Links 💥
 - [Explanation: .gitignore](https://git-scm.com/docs/gitignore#:~:text=A%20gitignore%20file%20specifies%20intentionally,gitignore%20file%20specifies%20a%20pattern.)
