@@ -34,6 +34,10 @@ In order to remove any unnecessary branches, you can make use of the `-d` flag.
 
  - > git branch -d (branch name)
 
+### Time travel with checkout:
+ - > git log --oneline
+ - > git checkout (commint id)
+
 
 
 ### x. Useful Links 💥
