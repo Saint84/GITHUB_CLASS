@@ -16,7 +16,7 @@
     - > git push
 
 ### 3. Creating a .gitignore File
-A **gitignore** file specifies intentionally untracked files that Git should ignore. Files already tracked by Git are not affected
+A **gitignore** file specifies intentionally untracked files that Git should ignore. Files already tracked by Git are not affected. We are going to ignore an IGNORE.txt file.
 
 ### 4. Creating a new Branch.
 Now we are going to create a new branch and create a simple python file on the APP directory. To creating a new branch just typing
