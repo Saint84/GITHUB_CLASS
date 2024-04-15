@@ -21,6 +21,7 @@ A **gitignore** file specifies intentionally untracked files that Git should ign
 ### 4. Creating a new Branch.
 Now we are going to create a new branch and create a simple python file on the APP directory. To creating a new branch just typing
  - > git branch (New Branch Name)
+ - > git push --set-upstream origin Dev
 
 You can list all branch in this repository using:
  - > git branch
@@ -32,6 +33,8 @@ To begin working on this new branch, you can use the `git checkout` command.
 In order to remove any unnecessary branches, you can make use of the `-d` flag.
 
  - > git branch -d (branch name)
+
+
 
 ### x. Useful Links 💥
 - [Explanation: .gitignore](https://git-scm.com/docs/gitignore#:~:text=A%20gitignore%20file%20specifies%20intentionally,gitignore%20file%20specifies%20a%20pattern.)
