@@ -37,8 +37,9 @@ In order to remove any unnecessary branches, you can make use of the `-d` flag.
 ### Time travel with checkout:
  - > git log --oneline
  - > git checkout (commint id)
+ - > git checkout Master
 
-
+### Reverse and Reset:
 
 ### x. Useful Links 💥
 - [Explanation: .gitignore](https://git-scm.com/docs/gitignore#:~:text=A%20gitignore%20file%20specifies%20intentionally,gitignore%20file%20specifies%20a%20pattern.)
