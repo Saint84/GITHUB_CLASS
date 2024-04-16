@@ -34,12 +34,22 @@ In order to remove any unnecessary branches, you can make use of the `-d` flag.
 
  - > git branch -d (branch name)
 
+### Logs: Commits Management:
+In order to list all projects's commits you can use the follow command
+ - > git log
+ - > git log --oneline
+ - > git log -n (n is a integer number)
+ - > git log --oneline -n
+
 ### Time travel with checkout:
  - > git log --oneline
  - > git checkout (commint id)
  - > git checkout Master
 
 ### Reverse and Reset:
+In order to remove the last alterations on branch, you can use the follow command line
+ - > git reverse (last commid id).
+PS: Keep in mind you must use the last commit id.
 
 ### x. Useful Links 💥
 - [Explanation: .gitignore](https://git-scm.com/docs/gitignore#:~:text=A%20gitignore%20file%20specifies%20intentionally,gitignore%20file%20specifies%20a%20pattern.)
