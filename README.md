@@ -1,6 +1,5 @@
 # Introduction ✨
 
-
 ### 1. Creating a GITHUB Repo.
 - Creating a new Repository and follow the next steps:
     - > git init
@@ -40,6 +39,11 @@ In order to list all projects's commits you can use the follow command
  - > git log --oneline
  - > git log -n (n is a integer number)
  - > git log --oneline -n
+
+### Commits:
+ - > git commit -m (msg)
+ - > git commit --amend -m (new msg) 
+ (PS: "Ammend" command change only the currently commit modify msgs and files)
 
 ### Time travel with checkout:
  - > git log --oneline
