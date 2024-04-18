@@ -55,6 +55,10 @@ In order to remove the last alterations on branch, you can use the follow comman
  - > git reverse (last commid id).
 PS: Keep in mind you must use the last commit id.
 
+### Differences:
+In order to check the currently modifications, you can use:
+ - > git diff --stage
+
 ### x. Useful Links 💥
 - [Explanation: .gitignore](https://git-scm.com/docs/gitignore#:~:text=A%20gitignore%20file%20specifies%20intentionally,gitignore%20file%20specifies%20a%20pattern.)
 - [Automation: gitignore Creation](https://www.toptal.com/developers/gitignore)
