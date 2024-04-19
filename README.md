@@ -57,7 +57,7 @@ PS: Keep in mind you must use the last commit id.
 
 ### Differences:
 In order to check the currently modifications, you can use:
- - > git diff --stage
+ - > git diff --staged
 
 
 ### Merge:
