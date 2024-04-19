@@ -5,5 +5,6 @@ print("New line -----")
 print("File 01 Created")
 
 print("Main Modification")
-
+# Resolvendo Conflito apos merge
 print("testing unstage!")
+print("new feature 19-04")
