@@ -8,3 +8,5 @@ print("Main Modification")
 # Resolvendo Conflito apos merge
 print("testing unstage!")
 print("new feature 19-04")
+
+print(" Just a test before creation directory")
