@@ -59,6 +59,16 @@ PS: Keep in mind you must use the last commit id.
 In order to check the currently modifications, you can use:
  - > git diff --stage
 
+
+### Merge:
+In order to get the alterations in another branches you can use `merge` command
+ - > git merge (branch name)
+
+It's likely that you will encounter merge conflicts.
+
+### Restore
+ - > git restore --staged (file name)
+
 ### x. Useful Links 💥
 - [Explanation: .gitignore](https://git-scm.com/docs/gitignore#:~:text=A%20gitignore%20file%20specifies%20intentionally,gitignore%20file%20specifies%20a%20pattern.)
 - [Automation: gitignore Creation](https://www.toptal.com/developers/gitignore)
